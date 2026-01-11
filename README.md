@@ -62,7 +62,7 @@ payments_engine/
 |   |-- processor.rs         # Core transaction processing engine
 |
 |-- tests/
-|   |-- integration_tests.rs # Integration tests
+|   |-- smoke_tests.rs       # Smoke tests
 |   |-- inputs/              # Test input files
 |   |-- expected_outputs/    # Expected output files for comparison
 |   |-- actual_outputs/      # Generated outputs from tests
